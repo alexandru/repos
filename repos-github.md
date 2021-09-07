@@ -760,6 +760,7 @@
 - monix/monix-bio
 - monix/monix-connect
 - monix/monix-kafka
+- monix/newtypes
 - monksy/serialization-checker
 - mschuwalow/zio-todo-backend
 - msgpack/msgpack-java
