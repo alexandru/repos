@@ -642,8 +642,7 @@
 - mockito/mockito-scala
 - molarmanful/sclin
 - monix/monix-bio
-- monix/monix:series/3.x
-- monix/monix:series/4.x
+- monix/monix:main
 - monix/newtypes
 - mox692/git-bench4s
 - mox692/scala-cross-compile-multi-platform.g8
